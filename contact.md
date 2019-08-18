@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* 유재현
+* Email: [wogus3314@gmail.com](mailto:wogus3314@gmail.com)
+* Phone: 010-2059-8320
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Kakaotalk](https://open.kakao.com/o/sHNSd9tb)
+2. [Facebook](https://www.facebook.com/jaehyun.yoo.39)
+3. [Github](https://github.com/bcnote3314)

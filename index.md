@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="v.png">
 안녕하세요. =)  <br>
-현업에서 네트워크 보안 솔루션 개발자로 일하고 있고 C와 Python을 주로 사용하는 개발자 입니다.  <br>
+현업에서 네트워크 보안 솔루션 개발자로 일하고 있고 C와 Python을 주로 사용합니다.  <br>
 최근엔 블록체인 기술에 흥미가 생겨 시간날때 조금씩 구경하고 있습니다. 
 
 ### Contract

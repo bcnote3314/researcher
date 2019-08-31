@@ -10,7 +10,7 @@ layout: default
 최근엔 블록체인 기술에 흥미가 생겨 시간날때 조금씩 구경하고 있습니다. 
 
 ### Contract
-
+* Name : 유재현
 * Email: [wogus3314@gmail.com](mailto:wogus3314@gmail.com)
 * Phone: 010-2059-8320
 

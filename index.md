@@ -2,44 +2,39 @@
 layout: default
 ---
 
-## About Me
+## About Me 
 
 <img class="profile-picture" src="v.png">
+안녕하세요. =)  <br>
+현업에서 네트워크 보안 솔루션 개발자로 일하고 있고 C와 Python을 주로 사용하는 개발자 입니다.  <br>
+최근엔 블록체인 기술에 흥미가 생겨 시간날때마다 구경하고 있습니다. 
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+### Contract
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+* Email: [wogus3314@gmail.com](mailto:wogus3314@gmail.com)
+* Phone: 010-2059-8320
 
-## Research Interest
+### Social
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+* [Kakaotalk](https://open.kakao.com/o/sHNSd9tb)
+* [Facebook](https://www.facebook.com/jaehyun.yoo.39)
+* [Github](https://github.com/bcnote3314)
 
-## Publications
+## Certificate
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- 정보처리기사
+	- 한국산업인력공단
+	- 2016.05.06
+- SQLD(SQL 개발자)
+	- 한국데이터진흥원
+	- 2014.10.20 
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Dev Career (4 Year)
 
-Here is a table
-
-Year | Award | Category
+Year | Company | Project(Task)
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2015.07 ~ 현재|(주)Wins|- 침임방지시스템(IPS) 엔진 기능 개발<br>- 제품 릴리즈 / 개발 프로세스 체계화 지원<br>- 제품 PoC/BMT 및 장애 대응 <br>- 성능 테스트 및 제품 품질 향상
+2010 ~ 2016|명지대학교(학사)| - 졸업 프로젝트 : 마음껏 시키게 나는 짜장면(마시짜)<br>
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+[상세 이력](https://bcnote3314.github.io/researcher/%EC%9C%A0%EC%9E%AC%ED%98%84.pdf)

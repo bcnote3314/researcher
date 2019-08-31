@@ -37,4 +37,4 @@ Year | Company | Project(Task)
 2015.07 ~ 현재|(주)Wins|- 침임방지시스템(IPS) 엔진 기능 개발<br>- 제품 릴리즈 / 개발 프로세스 체계화 지원<br>- 제품 PoC/BMT 및 장애 대응 <br>- 성능 테스트 및 제품 품질 향상
 2010 ~ 2016|명지대학교(학사)| - 졸업 프로젝트 : 마음껏 시키게 나는 짜장면(마시짜)<br>
 
-[상세 이력](https://bcnote3314.github.io/researcher/%EC%9C%A0%EC%9E%AC%ED%98%84.pdf)
+[상세 이력](https://docs.google.com/document/d/1YrmlnkqHeiXENrZFBbbJvsStYyJo_J15aZanDMBajnQ/edit?usp=sharing)

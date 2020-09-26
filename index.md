@@ -18,7 +18,6 @@ layout: default
 
 * [Kakaotalk](https://open.kakao.com/o/sHNSd9tb)
 * [Facebook](https://www.facebook.com/jaehyun.yoo.39)
-* [Github](https://github.com/bcnote3314)
 
 ## Certificate
 
@@ -30,11 +29,11 @@ layout: default
 	- 2014.10.20 
 
 
-## Dev Career (4 Year)
+## Dev Career (5 Year)
+### [Resume](https://docs.google.com/document/d/1YrmlnkqHeiXENrZFBbbJvsStYyJo_J15aZanDMBajnQ/edit?usp=sharing)
 
 Year | Company | Project(Task)
 -----|-------|--------
 2015.07 ~ 현재|(주)Wins|- 침임방지시스템(IPS) 엔진 기능 개발<br>- 제품 릴리즈 / 개발 프로세스 체계화 지원<br>- 제품 PoC/BMT 및 장애 대응 <br>- 성능 테스트 및 제품 품질 향상
-2010 ~ 2016|명지대학교(학사)| - 졸업 프로젝트 : 마음껏 시키게 나는 짜장면(마시짜)<br>
+2010 ~ 2016|명지대학교(학사)| -졸업 프로젝트 : 마음껏 시키게 나는 짜장면(마시짜)<br>- 학점 : 4.1/4.5
 
-[상세 이력](https://docs.google.com/document/d/1YrmlnkqHeiXENrZFBbbJvsStYyJo_J15aZanDMBajnQ/edit?usp=sharing)
